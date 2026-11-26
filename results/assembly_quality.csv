@@ -1,0 +1,10 @@
+Sample_ID,Total_length_bp,Contigs,N50_bp,GC_pct,Notes
+SID09,4306831,41,354726,50.89,WARN length 4.307 Mb (QC.watch 4.1-4.4 Mb); WARN GC 50.89% (QC.watch 50.88-51.13); length with N 4529414 bp; contigs>=0bp 41
+SID10,4299802,42,355408,50.89,WARN length 4.300 Mb (QC.watch 4.1-4.4 Mb); WARN GC 50.89% (QC.watch 50.88-51.13); length with N 4534286 bp; contigs>=0bp 42
+SID11,4276201,43,354777,50.91,WARN length 4.276 Mb (QC.watch 4.1-4.4 Mb); WARN GC 50.91% (QC.watch 50.88-51.13); length with N 4497271 bp; contigs>=0bp 43
+SID12,4301763,45,355885,50.89,WARN length 4.302 Mb (QC.watch 4.1-4.4 Mb); WARN GC 50.89% (QC.watch 50.88-51.13); length with N 4520588 bp; contigs>=0bp 45
+SID14,4318881,44,355221,50.76,WARN length 4.319 Mb (QC.watch 4.1-4.4 Mb); length with N 4568093 bp; contigs>=0bp 44
+SID16,4392356,37,318717,50.8,WARN length 4.392 Mb (QC.watch 4.1-4.4 Mb); length with N 4610684 bp; contigs>=0bp 37
+SID17,4372159,42,245980,50.95,WARN length 4.372 Mb (QC.watch 4.1-4.4 Mb); WARN GC 50.95% (QC.watch 50.88-51.13); length with N 4581324 bp; contigs>=0bp 42
+SID19,4302117,41,355971,50.87,WARN length 4.302 Mb (QC.watch 4.1-4.4 Mb); length with N 4521866 bp; contigs>=0bp 41
+SID20,4279473,52,259199,50.7,WARN length 4.279 Mb (QC.watch 4.1-4.4 Mb); length with N 4553923 bp; contigs>=0bp 52

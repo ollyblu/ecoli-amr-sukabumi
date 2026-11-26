@@ -1,0 +1,1 @@
+python pd.read_excel("metadata/genome_metadata.xlsx", dtype=str).to_csv("metadata/genome_metadata.csv", index=False)

@@ -1,0 +1,10 @@
+Sample_ID,Assembly_accession,BioProject,BioSample,Organism,Strain_or_isolate,Host,Collection_source,Collection_date,Location,Assembly_level,Download_date
+SID16,GCA_037201825.1,PRJNA1075840,SAMN39925920,Escherichia coli,16,Capra aegagrus hircus,A farm in Sukabumi city,2023-09-06,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID17,GCA_037201885.1,PRJNA1075840,SAMN39925921,Escherichia coli,17,Bos taurus,A farm in Sukabumi city,2023-09-06,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID11,GCA_037201895.1,PRJNA1075840,SAMN39925915,Escherichia coli,11,Anas platyrhynchos javanica,A farm in Sukabumi city,2023-08-21,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID09,GCA_037201835.1,PRJNA1075840,SAMN39925913,Escherichia coli,9,Anas platyrhynchos javanica,A farm in Sukabumi city,2023-08-21,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID10,GCA_037201905.1,PRJNA1075840,SAMN39925914,Escherichia coli,10,Cygnus cygnus,A farm in Sukabumi city,2023-08-21,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID19,GCA_037201845.1,PRJNA1075840,SAMN39925923,Escherichia coli,19,Ducks feed,A farm in Sukabumi city,2023-09-06,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID14,GCA_037201855.1,PRJNA1075840,SAMN39925918,Escherichia coli,14,Laying hen feed,A farm in Sukabumi city,2023-09-06,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID12,GCA_037201875.1,PRJNA1075840,SAMN39925916,Escherichia coli,12,Environment,A farm in Sukabumi city,2023-09-06,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25
+SID20,GCA_037201865.1,PRJNA1075840,SAMN39925924,Escherichia coli,20,Environment,A farm in Sukabumi city,2023-09-14,Indonesia: Sekolah Vokasi IPB,Chromosome,2026-11-25

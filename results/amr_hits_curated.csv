@@ -1,0 +1,13 @@
+Sample_ID,Feature,Drug_class_or_mechanism,Detection_category,Pct_identity,Pct_coverage,Tool,Tool_version,DB_version,Notes
+SID09,ompC_R308VfsTer16,BETA-LACTAM/CARBAPENEM,counted,91.67,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT_DISRUPT; Method=POINTX
+SID10,nfsB_L22TfsTer35,NITROFURAN/NITROFURANTOIN,counted,98.62,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT_DISRUPT; Method=POINTX
+SID10,ompC_D49SfsTer20,BETA-LACTAM/CARBAPENEM,counted,90.96,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT_DISRUPT; Method=POINTX
+SID12,marR_A70SfsTer11,MULTIDRUG/AMPICILLIN/CHLORAMPHENICOL/QUINOLONE/RIFAMPIN/TETRACYCLINE,counted,98.61,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT_DISRUPT; Method=POINTX
+SID19,uhpT_L228AfsTer25,FOSFOMYCIN,counted,100.00,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT_DISRUPT; Method=POINTX
+SID20,cyaA_S352T,FOSMIDOMYCIN,counted,99.29,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT; Method=POINTX
+SID20,gyrA_D87N,QUINOLONE,counted,98.97,99.66,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT; Method=POINTX; lokus sama dengan gyrA_S83L
+SID20,gyrA_S83L,QUINOLONE,counted,98.97,99.66,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT; Method=POINTX; lokus sama dengan gyrA_D87N
+SID20,ompC_S184Ter,BETA-LACTAM/CARBAPENEM,counted,90.19,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT_DISRUPT; Method=POINTX
+SID20,parC_S80I,QUINOLONE,counted,99.73,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT; Method=POINTX
+SID20,parE_I355T,QUINOLONE,counted,97.23,63.02,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT; Method=POINTX; coverage 63.02% < 90%
+SID20,uhpT_E350Q,FOSFOMYCIN,counted,99.78,100.00,AMRFinderPlus,4.2.7+galaxy0,V4.2-2026-05-15.1,Subtype=POINT; Method=POINTX

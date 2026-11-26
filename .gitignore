@@ -1,0 +1,13 @@
+# Genom mentah tidak diunggah; ambil ulang lewat aksesi di metadata/
+data/raw_genomes/
+*.fna
+*.fna.gz
+*.fasta
+*.fa
+*.zip
+# Keluaran QUAST lengkap cukup disimpan lokal; ringkasannya ada di results/
+quast_*/
+.ipynb_checkpoints/
+__pycache__/
+# PDF pihak ketiga (hak cipta penerbit/penulis); rujukan lewat DOI di laporan
+*.pdf
