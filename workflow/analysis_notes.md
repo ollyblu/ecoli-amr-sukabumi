@@ -212,7 +212,7 @@ Saran: pakai satu server saja dari awal sampai akhir (misalnya usegalaxy.eu) sup
 - **Langkah:** merapikan README dan mempublikasikan repositori
 - **Input:** seluruh folder proyek
 - **Parameter:** akun GitHub `ollyblu`, repositori `ecoli-amr-sukabumi`, publik, cabang `main`. `.gitignore` mengecualikan genom mentah dan `*.pdf` (PDF pihak ketiga). `genome_metadata.xlsx` ikut di-*commit* karena `convert_to_csv` membutuhkannya.
-- **Hasil / file keluaran:** https://github.com/ollyblu/ecoli-amr-sukabumi. Commit skrip penghasil figur: `[COMMIT_HASH]` (tercatat di Methods laporan). `README.md` tanpa `TODO`. Daftar berkas di GitHub tidak memuat `.fna`, `.zip`, `quast_*/`, `.pdf`, atau `CLAUDE.md`. `python run_all.py` di salinan bersih (skrip, metadata, tabel QC, TSV mentah) menghasilkan kedua CSV dan kedua PNG yang identik byte demi byte dengan yang di-*commit*.
+- **Hasil / file keluaran:** https://github.com/ollyblu/ecoli-amr-sukabumi. Commit skrip penghasil figur: `1f4793b12c4b81ca2589d303938978f1fbdc7492` (tercatat di Methods laporan). `README.md` tanpa `TODO`. Daftar berkas di GitHub tidak memuat `.fna`, `.zip`, `quast_*/`, `.pdf`, atau `CLAUDE.md`. `python run_all.py` di salinan bersih (skrip, metadata, tabel QC, TSV mentah) menghasilkan kedua CSV dan kedua PNG yang identik byte demi byte dengan yang di-*commit*.
 - **Kendala dan solusinya:** hash commit baru ada setelah commit pertama, jadi hash ditambahkan ke laporan lewat commit kedua.
 - **Belum selesai:** `[TODO]` di `report/report.md` (rujukan QRDR, katalog AMRFinderPlus, paper bertanda †); pengecekan repositori di browser.
 - **Pertanyaan yang muncul:** laporan baru final setelah `[TODO]` terisi; hash di Methods perlu diperbarui kalau skrip berubah.
